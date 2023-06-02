@@ -1,5 +1,7 @@
 # Home Sales
 
+## *The first 3 lines of code were provided for us in the starter file*
+
 ## Instructions
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
